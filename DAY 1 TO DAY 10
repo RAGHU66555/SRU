@@ -1,0 +1,222 @@
+10-12-2025 DAY1 https://onlinegdb.com/AV0jJc8aI (FN)
+                https://onlinegdb.com/40aLL-8Mh (AN)
+11-12-2025 DAY2 https://onlinegdb.com/P_kzs2IYT (FN)
+                https://onlinegdb.com/wMFDMvxn0 (AN)
+12-12-2025 DAY3 https://onlinegdb.com/IxlrWvF2-
+13-12-2025 DAY4 https://onlinegdb.com/bvP3cxM9E
+15-12-2025 DAY5 https://onlinegdb.com/ACNGuBCHF
+16-12-2025 DAY6 https://onlinegdb.com/vVqEtsPVL
+17-12-2025 DAY7 https://onlinegdb.com/C_Bwypgk3
+18-12-2025 DAY8 https://onlinegdb.com/7wZisjQEuD
+19-12-2025 DAY9 https://onlinegdb.com/OweiXPrgB
+20-12-2025 DAY10 https://onlinegdb.com/wpj1kvFv6
+
+🔹 Arrays (Basic / Traversal / Simulation)
+
+1 – Two Sum
+
+7 – Reverse Integer
+
+9 – Palindrome Number
+
+11 – Container With Most Water
+
+28 – Find the Index of the First Occurrence in a String
+
+48 – Rotate Image
+
+50 – Pow(x, n)
+
+54 – Spiral Matrix
+
+58 – Length of Last Word
+
+59 – Spiral Matrix II
+
+74 – Search a 2D Matrix
+
+80 – Remove Duplicates from Sorted Array II
+
+1051 – Height Checker
+
+1389 – Create Target Array in the Given Order
+
+1431 – Kids With the Greatest Number of Candies
+
+1480 – Running Sum of 1d Array
+
+🔹 Strings
+
+9 – Palindrome Number
+
+28 – Find the Index of the First Occurrence in a String
+
+125 – Valid Palindrome
+
+151 – Reverse Words in a String
+
+344 – Reverse String
+
+345 – Reverse Vowels of a String
+
+412 – Fizz Buzz
+
+424 – Longest Repeating Character Replacement
+
+438 – Find All Anagrams in a String
+
+520 – Detect Capital
+
+771 – Jewels and Stones
+
+🔹 Two Pointers
+
+11 – Container With Most Water
+
+80 – Remove Duplicates from Sorted Array II
+
+125 – Valid Palindrome
+
+167 – Two Sum II – Input Array Is Sorted
+
+344 – Reverse String
+
+345 – Reverse Vowels of a String
+
+🔹 Sliding Window
+
+209 – Minimum Size Subarray Sum
+
+424 – Longest Repeating Character Replacement
+
+438 – Find All Anagrams in a String
+
+643 – Maximum Average Subarray I
+
+739 – Daily Temperatures
+
+904 – Fruit Into Baskets
+
+1004 – Max Consecutive Ones III
+
+🔹 Prefix Sum / Cumulative Sum
+
+1480 – Running Sum of 1d Array
+
+238 – Product of Array Except Self
+
+303 – Range Sum Query – Immutable
+
+560 – Subarray Sum Equals K
+
+525 – Contiguous Array
+
+209 – Minimum Size Subarray Sum
+
+🔹 Hashing (HashMap / HashSet)
+
+1 – Two Sum
+
+169 – Majority Element
+
+217 – Contains Duplicate
+
+238 – Product of Array Except Self
+
+268 – Missing Number
+
+349 – Intersection of Two Arrays
+
+560 – Subarray Sum Equals K
+
+525 – Contiguous Array
+
+2032 – Two Out of Three
+
+2351 – First Letter to Appear Twice
+
+🔹 Linked List
+
+19 – Remove Nth Node From End of List
+
+21 – Merge Two Sorted Lists
+
+141 – Linked List Cycle
+
+142 – Linked List Cycle II
+
+160 – Intersection of Two Linked Lists
+
+206 – Reverse Linked List
+
+234 – Palindrome Linked List
+
+876 – Middle of the Linked List
+
+🔹 Binary Search
+
+162 – Find Peak Element
+
+367 – Valid Perfect Square
+
+704 – Binary Search
+
+912 – Sort an Array
+
+1351 – Count Negative Numbers in a Sorted Matrix
+
+🔹 2D Arrays / Matrix
+
+48 – Rotate Image
+
+54 – Spiral Matrix
+
+59 – Spiral Matrix II
+
+73 – Set Matrix Zeroes
+
+74 – Search a 2D Matrix
+
+240 – Search a 2D Matrix II
+
+566 – Reshape the Matrix
+
+766 – Toeplitz Matrix
+
+867 – Transpose Matrix
+
+1351 – Count Negative Numbers in a Sorted Matrix
+
+1572 – Matrix Diagonal Sum
+
+🔹 Math / Number Problems
+
+7 – Reverse Integer
+
+9 – Palindrome Number
+
+50 – Pow(x, n)
+
+258 – Add Digits
+
+367 – Valid Perfect Square
+
+507 – Perfect Number
+
+🔹 Greedy / Sorting / Counting
+
+75 – Sort Colors
+
+912 – Sort an Array
+
+1684 – Count the Number of Consistent Strings
+
+1773 – Count Items Matching a Rule
+
+🔹 Stack / Monotonic Stack
+
+739 – Daily Temperatures
+
+🔹 Design / Range Query
+
+303 – Range Sum Query – Immutable
